@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus debitis voluptatem nemo id magnam, accusamus ut nisi sint mollitia quasi porro eveniet sequi blanditiis ratione dolores soluta? Deleniti, voluptatum ipsam.</p>
+          <p>Creativity and innovation are both at the forefront of everything I do, and both of those traits led me to the wonderful world of development. I love taking a blank document and turning it into something you can see or interact with. My passion for learning new technologies, exploring new ideas, and troubleshooting my way through life's obstacles flourishes through my code, and I look forward to bringing my energy and skills with me into a professional setting.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

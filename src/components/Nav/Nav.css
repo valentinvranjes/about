@@ -17,7 +17,7 @@ nav {
 nav a {
     background: transparent;
     padding: 0.9rem;
-    border-radius: 50%;
+    border-radius: 0.3rem;
     display: flex;
     color: var (--color-light);
     font-size: 1.1rem; 
